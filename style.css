@@ -1,0 +1,27 @@
+.div-a{
+ background-color: blue; 
+ height: 50% ;
+}
+    .div-d{ background-color: red; 
+        height: 25%; 
+        width: 75%;
+    }
+
+.div-b {
+ background-color: #FF4500;
+  width: 500px; 
+  height: 500px;
+}
+.div.c {
+    background-color: #6a9b6a; 
+    width: 250px; 
+    height: 250px;
+}  
+    .p-2 {
+        font-size: 25px; 
+        font-family: monospace;
+    }
+        .stong {
+         font-weight: bold;
+         color: white;
+        }
